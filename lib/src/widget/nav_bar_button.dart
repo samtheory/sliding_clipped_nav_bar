@@ -196,7 +196,7 @@ class _NavBarButtonState extends State<NavBarButton>
                   title,
                   overflow: TextOverflow.clip,
                   maxLines: 1,
-                  style: getTextStyle(),
+                  style: getTextStyle().merge(DefaultTextStyle.of(context).style),
                 ),
               ),
             ),
