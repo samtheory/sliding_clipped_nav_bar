@@ -1,3 +1,5 @@
+## 3.0.0+1
+- Added discord link
 ## 3.0.0+0
 - Default TextStyle bug fixed. Thanks to the PR https://github.com/watery-desert/sliding_clipped_nav_bar/pull/7
 ## 2.0.1+8
