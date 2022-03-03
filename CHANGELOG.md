@@ -1,3 +1,6 @@
+## 3.0.0+2
+- Readme update
+
 ## 3.0.0+1
 - Added discord link
 ## 3.0.0+0
